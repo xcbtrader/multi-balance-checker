@@ -9,8 +9,8 @@ Hay que tener en cuenta que si un proveedor detecta muchas llamadas a su API en 
 
 
 EJEMPLO: direcciones.txt
-12dfkjgh dfghfhjkdh76ythh......
 
+12dfkjgh dfghfhjkdh76ythh....../n
 1hhGGfRgtbnkioUhkjui....
 
 1YYggFfrrHB545hnM08........
